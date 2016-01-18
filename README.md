@@ -1,1 +1,1 @@
-it can help you qucikly create cell
+快速创建多种样式的cell
